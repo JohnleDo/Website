@@ -1,5 +1,5 @@
 :root {
-    --container-bg-color: #333333
+    --container-bg-color: rgb(143, 143, 143);
 }
 
 html, body {
@@ -47,7 +47,7 @@ html, body {
     margin-top: 200px;
     margin: auto;
     
-    background-color: rgb(12, 31, 194);
+    background-color: rgb(8, 161, 54);
 }
 
 .contacts {
